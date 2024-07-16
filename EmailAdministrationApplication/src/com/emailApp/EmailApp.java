@@ -7,7 +7,7 @@ public class EmailApp {
 
 	public static void display()
 	{
-		System.out.println("To create email pls enter 1\nTO view database 2\nTo update 3\nTo delete 4\nTo Exit 5");
+		System.out.println("To create email pls enter 1\nTo view database 2\nTo update 3\nTo delete 4\nTo Exit 5");
 	}
 	
 	
